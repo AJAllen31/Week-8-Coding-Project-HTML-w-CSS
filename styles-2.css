@@ -1,0 +1,24 @@
+body {
+    background-color: aqua;
+}
+h2:hover {
+    height: 25px;
+    width: 250px;
+    background-color: blueviolet;
+}
+.shadow-text {
+    text-shadow: blueviolet 1px 1px;
+}
+#large-paragraph {
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: goldenrod 1px 3px;
+}
+ul {
+    border-style: double;
+    border-radius: 20px;
+
+}
+li:hover {
+    background-color: blueviolet;
+}

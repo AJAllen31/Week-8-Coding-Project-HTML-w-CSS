@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+}
+h3 {
+    color: goldenrod;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid blueviolet;
+
+}
+td:hover {
+    background-color: blueviolet;
+}
+#box-model {
+    padding: 20px;
+    border-style: double;
+    border-width: 5px;
+    margin: 20px;
+    background-color: blueviolet;
+    border-radius: 30px;
+}
+h1 {
+    border-style: double;
+    border-color: blueviolet;
+    border-radius: 30px;
+}
+h1:hover {
+    background-color: goldenrod;
+}

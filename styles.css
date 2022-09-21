@@ -1,0 +1,20 @@
+body {
+    background-color:aqua;
+}
+h1 {
+    color:blueviolet;
+    border-style: solid;
+    border-color: goldenrod;
+    border-radius: 10px; 
+}
+div {
+    border-style: dashed;
+    border-color: blueviolet;
+    border-radius: 5px;
+}
+form {
+    border-style: dashed;
+    border-color: blueviolet;
+    border-radius: 10px;
+}
+
